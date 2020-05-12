@@ -1,5 +1,5 @@
-# assets
-Calculo da TIR
+# Assets management
+IRR (Internal return rate) calculator
 
 # Components being used
 * Node.js
